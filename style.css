@@ -1,0 +1,59 @@
+/* ****** form ******* */
+body{
+    background-color: #000;
+    color: white;
+}
+#main-section{
+    padding: 10px 10px;
+}
+section legend h2{
+    text-align: left;
+}
+#section-1 #form input{
+     width: 30%;
+     background-color: #000;
+    color: white;
+    border: 1px solid #ddd;
+    padding: 8px 5px;
+    margin: 0px 10px;
+}
+#section-1 #form #btn{
+    margin-top: 10px;
+    width: 35%;
+    background-color: #fff;
+    color: black;
+}
+
+/* *******search ****** */
+.search input{
+    border: 1px solid #ddd;
+    width : 90%;
+    padding: 10px 20px;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    background-color: #000;
+    color: #fff;
+}
+
+/* ******table ******** */
+
+table{
+    border-color: white;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+td{
+    font-weight: bold;
+    font-size: 18px;
+    background-color:black;
+    color: #fff;
+    padding: 10px 30px;
+}
+.col{
+    background-color : black;
+    color: white;
+    text-align: center;
+}
+input{
+    font-size: 16px;
+}
